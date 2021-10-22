@@ -11,6 +11,10 @@ public class Testgitaftnn {
 		System.out.println("Employee mobile no is 8667070832");
 	}
 	
+	private void empdata() {
+		System.out.println("test data");
+	}
+	
 	public static void main(String[] args) {
 		
 		Testgitaftnn a = new Testgitaftnn();
